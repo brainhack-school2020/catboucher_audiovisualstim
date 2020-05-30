@@ -1,2 +1,2 @@
-# catboucher_audiovisualstim
-Toolkit to integrate PsychoPy with Tucker-Davis Technologies for stimulus presentation and experimental design
+# catboucher_dfconvert
+Tool to convert nested Matlab data structures to multi-index pandas dataframes
